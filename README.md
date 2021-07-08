@@ -1,16 +1,6 @@
-# watch_store_app_ui
+## Flutter-Watch-Store-App-UI
 
-A new Flutter project.
+- [WATCH ON YOUTUBE](https://www.youtube.com/watch?v=ZnW005ztCJM)
+- [FOLLOW ME FACEBOOK PAGE](https://www.facebook.com/Yaqoob-Programmer-104987488332021/?ref=pages_you_manage)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![watch app](https://user-images.githubusercontent.com/72684684/124883216-887a7480-dfea-11eb-8e4f-35ac25fb6a83.jpg)
